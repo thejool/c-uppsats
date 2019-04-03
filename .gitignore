@@ -1,0 +1,7 @@
+.DS_Store
+
+# Inkludera inte excelfilerna
+data/
+
+# Inkludera in arbetssparningar i projektet
+.ipynb_checkpoints
